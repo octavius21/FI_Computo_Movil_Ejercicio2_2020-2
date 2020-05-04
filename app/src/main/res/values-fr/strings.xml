@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liste des exercices 2</string>
+    <string name="titulo">Titre</string>
+    <string name="genero">Genre</string>
+    <string name="año">Année</string>
+    <string name="capitulo">Chapitre</string>
+    <string name="temporada">Saison</string>
+    <string name="calificacion">Qualification</string>
+    <string name="votacion">Vote</string>
+    <string name="introduce">Introduire</string>
+    <string name="alta">En haut</string>
+    <string name="horror">Terreur</string>
+    <string name="adventure">Aventures</string>
+    <string name="accion">Action</string>
+    <string name="fantasy">Fantaisie</string>
+    <string name="game">Jeu</string>
+    <string name="guardando">Sauvegarde des données</string>
+    <string name="obligatorio">Le champ est obligatoire</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ejercicio2Lista</string>
+    <string name="titulo">Titulo</string>
+    <string name="genero">Género</string>
+    <string name="id" translatable="false">ID</string>
+    <string name="año">Año</string>
+    <string name="capitulo">Capítulo</string>
+    <string name="temporada">Temporada</string>
+    <string name="calificacion">Calificación</string>
+    <string name="votacion">Votación</string>
+    <string name="introduce">Introduce</string>
+    <string name="alta">Alta</string>
+    <string name="accion">Acción</string>
+    <string name="adventure">Aventura</string>
+    <string name="game">Juego</string>
+    <string name="fantasy">Fantasia</string>
+    <string name="horror">Terror</string>
+    <string name="scifi" translatable="false">Sci-fi</string>
+    <string name="isekai" translatable="false">Isekai</string>
+    <string name="guardando">Guardando los datos</string>
+    <string name="obligatorio">El campo es obligatorio</string>
+</resources>
